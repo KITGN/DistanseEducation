@@ -1,0 +1,22 @@
+
+
+
+***Логин пользователя***
+
+Email   : bespalko@mail.ru
+Password: bespalko
+
+
+Email   : nik@mail.ru
+Password: Nikita123
+
+
+***Логин администратора***
+
+Email    : admin@admin.ru
+Password : admin
+
+
+Пароль от БД в beget - 7ENsu&DP
+
+
