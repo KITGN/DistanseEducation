@@ -8,6 +8,8 @@
 #### Также существует панель администратора, где сотрудник может удалять и добавлять темы, регистрировать новых сотрудников и удалять эти данные при необходимости.
 
 ###### *В проекте могут быть некоторые недостатки, которые будут исправляться со временем* 
+
+#### Ссылка на Figma со скриншотами сайта - https://www.figma.com/file/draq2xCox0NJilxzV6FZWP/Distance-learning-system?node-id=6%3A30
 ---
 ## Service "Distance learning System" for the organization's web portal
 
@@ -18,3 +20,5 @@
 #### There is also an admin panel where an employee can delete and add topics, register new employees and delete this data if necessary.
 
 ###### *There may be some shortcomings in the project that will be corrected over time* 
+
+#### Link to Figma with screenshots of the site - https://www.figma.com/file/draq2xCox0NJilxzV6FZWP/Distance-learning-system?node-id=6%3A30
